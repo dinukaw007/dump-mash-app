@@ -1,0 +1,7 @@
+{
+  "name": "dumpmash-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
